@@ -1,0 +1,33 @@
+body {
+    background-color: #D8C2E2;
+}
+
+* {
+    font-family: Inter;
+}
+
+.header-top {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo {
+    padding: 20px;
+}
+
+.header-menu {
+    display: block;
+    display: flex;
+    align-items: center;
+}
+
+.header-menu-items {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.photo-showcase {
+    width: 1216px;
+    padding: 20px;
+}
